@@ -21,4 +21,5 @@ $dbpass = "dbpass"; // Your db password
 $dbname = "dbname"; // Your database name
 $dbhost = "localhost"; // Your database host
 ```
-3) Test it.
+3) Put in a few test-entries.
+4) Navigate to this file via url in your browser to test it.
