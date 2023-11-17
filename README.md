@@ -10,4 +10,4 @@ $dbpass = "dbpass"; // Your db password
 $dbname = "dbname"; // Your database name
 $dbhost = "localhost"; // Your database host
 ```
-4) Test it.
+3) Test it.
