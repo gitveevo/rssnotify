@@ -1,4 +1,4 @@
-# rssnotify
+# RssNotify
 Resources for rssnotify
 
 ## Create your own feed ##
