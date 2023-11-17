@@ -1,0 +1,2 @@
+# rssnotify
+Resources for rssnotify
