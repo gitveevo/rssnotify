@@ -50,3 +50,7 @@ If you want to create a feed on your own, please follow the following format
 //Best to use a md5 of a unique property of your rss-item. For example the link.
 $uid = "unique-id-".md5($item->link);
 ```
+3) Make sure your web-server delivers the xml with xml mime-type.
+```php
+header('Content-Type: text/xml');
+```
