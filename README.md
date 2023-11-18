@@ -47,10 +47,12 @@ If you want to create a feed on your own, please follow the following format
 1) The link tag in item is optional
 2) The guid needs to be unique.
 ```php
+<?php
 //Best to use a md5 of a unique property of your rss-item. For example the link.
 $uid = "unique-id-".md5($item->link);
 ```
 3) Make sure your web-server delivers the xml with xml mime-type.
 ```php
+<?php
 header('Content-Type: text/xml');
 ```
