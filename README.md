@@ -46,7 +46,7 @@ If you want to create a feed on your own, please follow the following format
 	</rss>
 ```
 1) The link tag in item is optional
-2) The guid needs to be unique.
+2) The guid MUST to be unique across all your feeds. If not, it will notify you repeatedly.
 ```php
 <?php
 	//Best to use a md5 of a unique property of your rss-item. For example the link.
