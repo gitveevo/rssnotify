@@ -13,7 +13,7 @@ http://rss.cnn.com/rss/edition.rss
 
 ### BBC Topstories
 ```
-[http://rss.cnn.com/rss/edition.rss](https://feeds.bbci.co.uk/news/rss.xml)
+https://feeds.bbci.co.uk/news/rss.xml
 ```
 <br clear="left"/>
 
