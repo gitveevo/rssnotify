@@ -3,7 +3,7 @@ Resources for rssnotify
 
 ## Popular public RSS News Feeds ##
 ![alt text](https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg =100x100)
-<img src="[https://your-image-url.type](https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg)" width="100" height="100">
+<img src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg" width="100" height="100">
 
 
 ## Create your own feed ##
