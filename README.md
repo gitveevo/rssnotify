@@ -5,8 +5,6 @@ Resources for rssnotify
 <img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg" width="150" height="150">
 ### CNN Topstories ###
 http://rss.cnn.com/rss/edition.rss
-[GitHub Pages](https://pages.github.com/)
-
 
 
 ## Create your own feed ##
