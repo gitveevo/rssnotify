@@ -7,6 +7,8 @@ Resources for rssnotify
 http://rss.cnn.com/rss/edition.rss
 [GitHub Pages](https://pages.github.com/)
 
+
+
 ## Create your own feed ##
 1) Create database and use schema.sql for the items table.
 ```sql
