@@ -2,6 +2,7 @@
 Resources for rssnotify
 
 ## Popular public RSS News Feeds ##
+### CNN Topstories ###
 <img src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg" width="150" height="150">
 
 
