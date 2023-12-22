@@ -9,7 +9,7 @@ Resources for rssnotify
 http://rss.cnn.com/rss/edition.rss
 ```
 <br clear="left"/>
-<img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRBBCTOPSTORIES.svg" width="150" height="150">
+<img align="right" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRBBCTOPSTORIES.svg" width="150" height="150">
 
 ### BBC Topstories
 ```
