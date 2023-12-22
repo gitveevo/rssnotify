@@ -2,9 +2,8 @@
 Resources for rssnotify
 
 ## Popular public RSS News Feeds ##
-### CNN Topstories ###
 <img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg" width="150" height="150">
-
+### CNN Topstories ###
 
 ## Create your own feed ##
 1) Create database and use schema.sql for the items table.
