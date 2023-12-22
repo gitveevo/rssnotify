@@ -18,7 +18,7 @@ https://feeds.bbci.co.uk/news/rss.xml
 ```
 <br clear="right"/>
 <br clear="right"/>
-<img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/nyt" width="150" height="150">
+<img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/nyt.svg" width="150" height="150">
 
 ### New York Times World News
 ```
