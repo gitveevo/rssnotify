@@ -26,7 +26,7 @@ https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 ```
 <br clear="left"/>
 <br clear="left"/>
-<img align="right" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/foxnews" width="150" height="150">
+<img align="right" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/foxnews.svg" width="150" height="150">
 
 ### FoxNews Topstories
 ```
