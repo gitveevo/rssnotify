@@ -16,8 +16,16 @@ http://rss.cnn.com/rss/edition.rss
 ```
 https://feeds.bbci.co.uk/news/rss.xml
 ```
-<br clear="left"/>
+<br clear="right"/>
+<br clear="right"/>
+<img align="left" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/nyt" width="150" height="150">
 
+### New York Times World News
+```
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+```
+<br clear="left"/>
+<br clear="left"/>
 
 ## Create your own feed ##
 1) Create database and use schema.sql for the items table.
