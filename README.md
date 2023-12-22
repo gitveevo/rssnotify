@@ -8,7 +8,7 @@ Resources for rssnotify
 ```
 http://rss.cnn.com/rss/edition.rss
 ```
-
+<br clear="left"/>
 
 
 ## Create your own feed ##
