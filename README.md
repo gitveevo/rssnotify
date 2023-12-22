@@ -2,7 +2,7 @@
 Resources for rssnotify
 
 ## Popular public RSS News Feeds ##
-![alt text](https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg)
+![alt text](https://github.com/gitveevo/rssnotify/blob/main/qrcodes/QRCNNTOPSTORIES.svg | width=100)
 
 
 ## Create your own feed ##
