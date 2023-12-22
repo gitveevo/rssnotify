@@ -26,6 +26,14 @@ https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 ```
 <br clear="left"/>
 <br clear="left"/>
+<img align="right" src="https://github.com/gitveevo/rssnotify/blob/main/qrcodes/foxnews" width="150" height="150">
+
+### FoxNews Topstories
+```
+https://moxie.foxnews.com/google-publisher/latest.xml
+```
+<br clear="right"/>
+<br clear="right"/>
 
 ## Create your own feed ##
 1) Create database and use schema.sql for the items table.
