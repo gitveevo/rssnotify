@@ -1,6 +1,10 @@
 # RssNotify
 Resources for rssnotify
 
+## Popular public RSS News Feeds ##
+
+
+
 ## Create your own feed ##
 1) Create database and use schema.sql for the items table.
 ```sql
